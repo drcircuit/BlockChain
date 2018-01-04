@@ -1,0 +1,10 @@
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\bin\Debug\netcoreapp2.0\BlockChain.NET.deps.json
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\bin\Debug\netcoreapp2.0\BlockChain.NET.runtimeconfig.json
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\bin\Debug\netcoreapp2.0\BlockChain.NET.runtimeconfig.dev.json
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\bin\Debug\netcoreapp2.0\BlockChain.NET.dll
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\bin\Debug\netcoreapp2.0\BlockChain.NET.pdb
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\obj\Debug\netcoreapp2.0\BlockChain.NET.csproj.CoreCompileInputs.cache
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\obj\Debug\netcoreapp2.0\BlockChain.NET.AssemblyInfoInputs.cache
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\obj\Debug\netcoreapp2.0\BlockChain.NET.AssemblyInfo.cs
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\obj\Debug\netcoreapp2.0\BlockChain.NET.dll
+c:\Users\espen\WebstormProjects\BlockChain\BlockChain.NET\obj\Debug\netcoreapp2.0\BlockChain.NET.pdb
