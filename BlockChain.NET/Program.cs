@@ -8,8 +8,7 @@ using System.Text;
 namespace BlockChain.NET
 {
 
-        //Now we have a rudimentary blockchain.... but this can be spammed.. we can't have that!!! we need a Proof Of Work... 
-        // that just means somebody needs to prove they tried really really hard to make a new block...
+
         class Block{
         public Block(string data, byte[] previousHash, int difficulty)
         {
